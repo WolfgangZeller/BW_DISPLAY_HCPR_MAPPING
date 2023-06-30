@@ -8,4 +8,4 @@
 
 Link zum Programm: [Mapping of InfoProvider fields in CompositeProvider](https://blogs.sap.com/2016/03/04/mapping-of-infoprovider-fields-in-compositeprovider/)
 
-![](img/output-hcpr-program.png)
+![](img/output-hcpr-program2.png)
